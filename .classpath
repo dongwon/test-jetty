@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/hadoop-core-1.0.4.jar" sourcepath="/Users/eastbest1/Downloads/hadoop-1.0.4"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/jetty-6.1.26.jar" sourcepath="/Users/eastbest1/Downloads/jetty-6.1.26/jetty-6.1.26-src.zip"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/jetty-util-6.1.26.jar" sourcepath="/Users/eastbest1/Downloads/jetty-util-6.1.26-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/servlet-api-2.5-20081211.jar" sourcepath="/Users/eastbest1/Downloads/servlet-api-2.5-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/jsp-2.1/jsp-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/eastbest1/Downloads/hadoop-1.0.4/lib/jsp-2.1/jsp-api-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
