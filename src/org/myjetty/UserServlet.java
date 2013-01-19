@@ -13,11 +13,6 @@ public class UserServlet extends HttpServlet{
 	private static final long serialVersionUID = 7791920745383626756L;
 	
 	FileDao fd = new FileDao();
-	
-	public UserServlet() {
-		System.out.println("생성자 호출");
-	}
-
 	UserVo vo = new UserVo();
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
@@ -49,7 +44,6 @@ public class UserServlet extends HttpServlet{
 	protected void doDelete(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
 		String user = req.getHeader("User-Name");
-		System.out.println("delete = " + user);
 		fd.delete(user);
 		super.doDelete(req, resp);
 	}
